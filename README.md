@@ -1,8 +1,5 @@
 # Digital-Stethoscope
 Designing a Digital Stethoscope Using a Microphone
-Here’s the clean **README text** as you requested—written naturally and ready to paste into your GitHub repo:
-
----
 
 # Digital Stethoscope using ESP32
 
